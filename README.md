@@ -1,7 +1,7 @@
-# 🧠 Projeto POO - Jogo da Velha e Calculadora com Tela de Login
+# 🧠 Projeto POO - Tela de Login com Acesso à Calculadora e Jogo da Velha
 
 Bem-vindo ao repositório do projeto de Programação Orientada a Objetos (POO)!  
-Aqui desenvolvemos dois aplicativos simples utilizando conceitos fundamentais de POO: um **Jogo da Velha** e uma **Calculadora com Tela de Login**.
+Este projeto integra conceitos fundamentais de POO com uma interface gráfica que inicia por uma **tela de login**, a qual, após autenticação, permite ao usuário escolher entre dois aplicativos: **uma Calculadora** ou o **Jogo da Velha**.
 
 ## 👥 Integrantes
 - Otávio Sousa  
@@ -9,35 +9,43 @@ Aqui desenvolvemos dois aplicativos simples utilizando conceitos fundamentais de
 - João Victor  
 - José Luis
 
-## 🧩 Jogos Desenvolvidos
+## 🔐 Tela de Login
 
-### 1. 🔐 Calculadora com Tela de Login
+A aplicação começa com uma tela de login onde o usuário insere suas credenciais. Após a verificação, o usuário pode escolher entre acessar a **Calculadora** ou o **Jogo da Velha**.
 
-Aplicação com uma interface de login que valida usuários e, após autenticação, permite o uso de uma calculadora com funções básicas (adição, subtração, multiplicação e divisão).
-
-#### Funcionalidades:
-- Tela de login com nome de usuário e senha
-- Verificação de credenciais
-- Interface amigável da calculadora
-- Operações matemáticas básicas
+### Funcionalidades:
+- Tela de login com campos de nome de usuário e senha  
+- Validação de credenciais  
+- Menu com seleção entre Calculadora ou Jogo da Velha  
 
 ---
 
-### 2. ❌⭕ Jogo da Velha
+## 🧮 Calculadora
 
-Clássico jogo da velha (tic-tac-toe) para dois jogadores. Desenvolvido com foco em estruturação de classes e uso de lógica condicional.
+Aplicativo com interface gráfica que realiza operações matemáticas básicas.
 
-#### Funcionalidades:
-- Interface simples e interativa
-- Dois jogadores alternando turnos
-- Verificação de vitória ou empate
-- Reinício automático ao final da partida
+### Funcionalidades:
+- Interface simples e amigável  
+- Operações: adição, subtração, multiplicação e divisão  
+
+---
+
+## ❌⭕ Jogo da Velha
+
+Clássico jogo da velha (tic-tac-toe) para dois jogadores. Desenvolvido com foco em lógica de jogo e estrutura orientada a objetos.
+
+### Funcionalidades:
+- Interface interativa  
+- Alternância de turnos entre dois jogadores  
+- Verificação automática de vitória ou empate  
+- Reinício automático ao final da partida  
 
 ---
 
 ## 💻 Tecnologias Utilizadas
-- Linguagem: `Python`
-- Paradigma: `Programação Orientada a Objetos`
-- Interface gráfica (opcional): `tkinter` (caso usado)
+- Linguagem: `Java`  
+- Paradigma: `Programação Orientada a Objetos`  
+- Interface gráfica: `Apache NetBeans IDE` (Swing)  
 
 ## 🏗️ Estrutura do Projeto
+*(Adicione aqui as pastas, pacotes e classes, se desejar)*
