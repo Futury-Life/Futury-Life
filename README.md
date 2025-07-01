@@ -46,6 +46,3 @@ Clássico jogo da velha (tic-tac-toe) para dois jogadores. Desenvolvido com foco
 - Linguagem: `Java`  
 - Paradigma: `Programação Orientada a Objetos`  
 - Interface gráfica: `Apache NetBeans IDE` (Swing)  
-
-## 🏗️ Estrutura do Projeto
-*(Adicione aqui as pastas, pacotes e classes, se desejar)*
